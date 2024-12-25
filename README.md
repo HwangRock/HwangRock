@@ -1,4 +1,4 @@
-# I'm HwangRock. I'm always observe problem in daily life and seek to solve this problem with software program.
+## I'm HwangRock. I'm always observe problem in daily life and seek to solve this problem with software program.
 
 ### study
 I'm currently interested in blockchain, criptography algorithm and AI based cryptanalysis.
