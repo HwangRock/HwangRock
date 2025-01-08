@@ -16,7 +16,7 @@ blockchain, cryptography algorithm, AI based cryptanalysis에 관심을 가지�
 ---
 
 ## 공부해온 기술
-### Frameworks
+### Server side Frameworks
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat&logo=springboot&logoColor=6DB33F)
 
 | Category       | tech                                                                                                                                                                                                                                                                                                                       |
@@ -24,6 +24,19 @@ blockchain, cryptography algorithm, AI based cryptanalysis에 관심을 가지�
 | **ORM**        | ![Spring Data JPA](https://img.shields.io/badge/-Spring%20Data%20JPA-05122A?style=flat&logo=spring&logoColor=6DB33F), ![Hibernate](https://img.shields.io/badge/-Hibernate-05122A?style=flat&logo=hibernate&logoColor=59666C)                                                                                              |
 | **Authorization** | ![Spring Security](https://img.shields.io/badge/-Spring%20Security-05122A?style=flat&logo=springsecurity&logoColor=6DB33F), ![OAuth2](https://img.shields.io/badge/-OAuth2-05122A?style=flat&logo=oauth&logoColor=3EAAAF), ![JWT](https://img.shields.io/badge/-JWT-05122A?style=flat&logo=jsonwebtokens&logoColor=000000) |
 | **Build Tools** | ![Gradle](https://img.shields.io/badge/-Gradle-05122A?style=flat&logo=gradle&logoColor=02303A)                                                                                                                                                                                                                             |
+<br>
+
+![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-05122A?style=flat&logo=dotnet&logoColor=512BD4)
+
+| Category       | tech                                                                                                                                                                                                                                                                                                                       |
+|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **ORM**        | ![Entity Framework Core](https://img.shields.io/badge/-Entity%20Framework%20Core-05122A?style=flat&logo=dotnet&logoColor=512BD4)                                                                                                                                                                                            |
+| **Authorization** | ![ASP.NET Core Identity](https://img.shields.io/badge/-ASP.NET%20Core%20Identity-05122A?style=flat&logo=dotnet&logoColor=512BD4), ![JWT](https://img.shields.io/badge/-JWT-05122A?style=flat&logo=jsonwebtokens&logoColor=000000)                                                                                           |
+| **Build Tools** | ![MSBuild](https://img.shields.io/badge/-MSBuild-05122A?style=flat&logo=visualstudio&logoColor=5C2D91)                                                                                                                                                                                                                      |
+
+
+### Problem Solving
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=peter9244)](https://solved.ac/peter9244/)
 
 ### Programming  Language
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java) 
