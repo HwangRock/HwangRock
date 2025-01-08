@@ -48,14 +48,10 @@ blockchain, cryptography algorithm, AI based cryptanalysis에 관심을 가지�
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B&logoColor=00599C)
 ![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp&logoColor=239120)
 
-<br>
-
 ### Query Language
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=postgresql&logoColor=336791)
 ![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis&logoColor=DC382D)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb&logoColor=47A248)
-
-<br>
 
 ### Cloud
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws&logoColor=FF9900)
@@ -64,8 +60,6 @@ blockchain, cryptography algorithm, AI based cryptanalysis에 관심을 가지�
 ![S3](https://img.shields.io/badge/-S3-05122A?style=flat&logo=amazon-aws&logoColor=569A31)
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker&logoColor=2496ED)
 ![TorchServe](https://img.shields.io/badge/-TorchServe-05122A?style=flat&logo=pytorch&logoColor=EE4C2C)
-
-<br>
 
 ### AI
 ![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=pytorch&logoColor=EE4C2C)
