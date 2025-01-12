@@ -37,7 +37,7 @@ blockchain, cryptography algorithm, AI based cryptanalysis에 관심을 가지�
 <br>
 
 ### Problem Solving
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=peter9244)](https://solved.ac/peter9244/)![스트릭](http://mazandi.herokuapp.com/api?handle=peter9244&theme=cool)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=peter9244)](https://solved.ac/peter9244/)![스트릭](http://mazandi.herokuapp.com/api?handle=peter9244&theme=dark)
 
 <br>
 
