@@ -29,7 +29,7 @@ blockchain, cryptography algorithm, AI based cryptanalysis에 관심을 가지�
 
 
 ## 공부해온 기술
-### Server side Frameworks
+### Server Side Frameworks
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat&logo=springboot&logoColor=6DB33F)
 
 | Category       | tech                                                                                                                                                                                                                                                                                                                       |
@@ -50,7 +50,7 @@ blockchain, cryptography algorithm, AI based cryptanalysis에 관심을 가지�
 <br>
 
 ### Problem Solving
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=peter9244)](https://solved.ac/peter9244/)![프로그래머스 프로필](http://mazandi.herokuapp.com/api?handle=peter9244&theme=warm)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=peter9244)](https://solved.ac/peter9244/)![스트릭](http://mazandi.herokuapp.com/api?handle=peter9244&theme=dark)
 
 <br>
 
