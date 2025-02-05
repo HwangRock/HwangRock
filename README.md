@@ -11,8 +11,8 @@
 ## 학습 및 성장 방향
 <span style="font-size: 16px;">
 최적화에 고심하는 백엔드 개발에 매력을 느끼고 흥미를 느껴서 백엔드 개발자를 희망합니다.<br><br>
-효율적인 비즈니스 로직을 위해 알고리즘을 공부하고, 안정적이고 빠른 서버버를 위해서 CS에 대해 공부하고, 안전한 데이터 처리를 위해 암호학을 공부하고 있습니다.<br><br>
-협업의 효율성이나나 injection 방지를 위해서 클라이언트 사이드 개발 기본기기도 공부하고,<br> 
+주로 효율적인 비즈니스 로직을 위해 알고리즘을 공부하고, 안정적이고 빠른 서버를 위해서 CS에 대해 공부하고, 안전한 데이터 처리를 위해 암호학을 공부하고 있습니다.<br><br>
+협업의 효율성이나 injection 방지를 위해서 클라이언트 사이드 개발 기본기도 공부하고,<br> 
 알고리즘이 다루기 어려운 문제를 해결하기위해 AI 기술도 공부하고 있습니다.
 
 </span>
@@ -21,7 +21,7 @@
 
 ## 관심 분야
 <span style="font-size: 16px;">
-blockchain, cryptography algorithm, AI based cryptanalysis에 관심을 가지고 공부 및 연구를 하고 있습니다.
+동형암호와 암호 알고리즘에 관심을 가지고 관련 프로젝트나 최적화 실험을 하며 공부 및 연구를 하고 있습니다.
 </span>
 
 ---
@@ -30,6 +30,7 @@ blockchain, cryptography algorithm, AI based cryptanalysis에 관심을 가지�
 
 ## 공부해온 기술
 ### Server Side Frameworks
+
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat&logo=springboot&logoColor=6DB33F)
 
 | Category       | tech                                                                                                                                                                                                                                                                                                                       |
@@ -37,6 +38,11 @@ blockchain, cryptography algorithm, AI based cryptanalysis에 관심을 가지�
 | **ORM**        | ![Spring Data JPA](https://img.shields.io/badge/-Spring%20Data%20JPA-05122A?style=flat&logo=spring&logoColor=6DB33F), ![Hibernate](https://img.shields.io/badge/-Hibernate-05122A?style=flat&logo=hibernate&logoColor=59666C)                                                                                              |
 | **Authorization** | ![Spring Security](https://img.shields.io/badge/-Spring%20Security-05122A?style=flat&logo=springsecurity&logoColor=6DB33F), ![OAuth2](https://img.shields.io/badge/-OAuth2-05122A?style=flat&logo=oauth&logoColor=3EAAAF), ![JWT](https://img.shields.io/badge/-JWT-05122A?style=flat&logo=jsonwebtokens&logoColor=000000) |
 | **Build Tools** | ![Gradle](https://img.shields.io/badge/-Gradle-05122A?style=flat&logo=gradle&logoColor=02303A)                                                                                                                                                                                                                             |
+| **API Documentation** | ![Swagger](https://img.shields.io/badge/-Swagger-05122A?style=flat&logo=swagger&logoColor=85EA2D)                                                                                                                                                                                                                       |
+| **Testing** | ![JUnit 5](https://img.shields.io/badge/-JUnit%205-05122A?style=flat&logo=junit5&logoColor=25A162)                                                                                                                                                                                                                           |
+| **Monitoring** | ![Prometheus](https://img.shields.io/badge/-Prometheus-05122A?style=flat&logo=prometheus&logoColor=E6522C), ![Grafana](https://img.shields.io/badge/-Grafana-05122A?style=flat&logo=grafana&logoColor=F46800)                                                                                                            |
+
+
 <br>
 
 ![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-05122A?style=flat&logo=dotnet&logoColor=512BD4)
