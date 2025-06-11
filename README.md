@@ -28,7 +28,8 @@ AI 서비스에서 운영 효율성과 UX를 향상 시키기 위해서 AI 플�
 <br>
 
 ### Problem Solving
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=peter9244)](https://solved.ac/peter9244/)![스트릭](http://mazandi.herokuapp.com/api?handle=peter9244&theme=dark)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=peter9244)](https://solved.ac/peter9244/)![스트릭](http://mazandi.herokuapp.com/api?handle=peter9244&theme=dark)<br>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hwangrock)](https://solved.ac/hwangrock/)![스트릭](http://mazandi.herokuapp.com/api?handle=hwangrock&theme=dark)
 
 <br>
 
