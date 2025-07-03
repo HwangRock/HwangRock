@@ -1,17 +1,14 @@
-성장 방향
+✨잘생긴 코드를 추구하는 HwangRock 입니다🧑‍💻
 ---
 <span style="font-size: 16px;">
-SW로 현실의 문제를 해결하는 것을 즐겨서 여러 사람과의 소통을 통해 문제를 인식하고,<br>
-SW 기반 여러 기술을 공부해서 문제를 풀어서 가치를 창출하고자 노력합니다.<br><br>
-최적화 문제에 몰입하는 것을 즐겨서 백엔드 기반 퍼포먼스 엔지니어를 희망합니다.<br><br>
-주로 효율적인 비즈니스 로직을 위해 알고리즘을 공부하고, 서버 최적화와 데이터 파이프라인을 위해 CS와 인프라를 공부하고 있습니다.<br><br>
-다양한 서비스 문제를 해결하기 위해 주로 NLP 기반의 AI 기술을 학습하고 있으며,<br>
-AI 서비스에서 운영 효율성과 UX를 향상 시키기 위해서 AI 플랫폼과 AI 모델 경량화 분야의 연구에 기여하고자 합니다.
+  🔎Technical Interests : 최적화 알고리즘, 데이터 파이프라인 아키텍처, NLP 모델
+</br></br>
+  🔥Development Goals : AI가 서버에서 무료에 가깝게 자동화를 생산하는 세상
 </span>
 
 ---
 
-## 공부해온 기술
+## ⚙️공부해온 기술
 ### Server Side Frameworks
 
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat&logo=springboot&logoColor=6DB33F)
