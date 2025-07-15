@@ -8,6 +8,11 @@
 
 ---
 
+## 📝simple word test
+![Daily Vocab Card](https://notion-serverless-voca.vercel.app/api/words/dailycard?name=HwangRock)
+
+---
+
 ## ⚙️ 문제 해결 도구
 ### Server Side
 
