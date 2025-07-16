@@ -8,8 +8,18 @@
 
 ---
 
-## 📝simple word test
+## 📆 "개발자 3대 루틴"
+<strong>게임하며 배우는 것을 공부라고 여기지 않듯이, 개발에 대한 기본적인 것은 일상으로 여기기로 했습니다.</strong>  
+
+###### 📚 Simple English Voca Test
 ![Daily Vocab Card](https://notion-serverless-voca.vercel.app/api/words/dailycard?name=HwangRock)
+
+###### 💻 Daily CS Challenge
+![Daily CS Card](https://notion-serverless-voca.vercel.app/api/cs/daily?name=HwangRock)
+
+###### 🧩 Problem Solving (Train clean code)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=peter9244)](https://solved.ac/peter9244/)![스트릭](http://mazandi.herokuapp.com/api?handle=peter9244&theme=dark)<br>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hwangrock)](https://solved.ac/hwangrock/)![스트릭](http://mazandi.herokuapp.com/api?handle=hwangrock&theme=dark)
 
 ---
 
@@ -43,11 +53,3 @@
 | **Container**              | ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker&logoColor=2496ED)                                                                                                                                                                                                                                |
 | **LLM Orchestration**      | ![LangChain](https://img.shields.io/badge/-LangChain-05122A?style=flat&logo=langchain&logoColor=FFD700)                                                                                                                                                                                                                       |
 | **Model Hub** | ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-05122A?style=flat&logo=huggingface&logoColor=FFDD54)                                                                                                                                                                                                      |
-
-
-<br>
-
-### Problem Solving (Train clean code)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=peter9244)](https://solved.ac/peter9244/)![스트릭](http://mazandi.herokuapp.com/api?handle=peter9244&theme=dark)<br>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hwangrock)](https://solved.ac/hwangrock/)![스트릭](http://mazandi.herokuapp.com/api?handle=hwangrock&theme=dark)
-
