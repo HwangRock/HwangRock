@@ -9,7 +9,7 @@
 ---
 
 ## 📆 "개발자 3대 루틴"
-<strong>게임하며 배우는 것을 공부라고 여기지 않듯이, 개발에 대한 기본적인 것은 일상으로 여기기로 했습니다.</strong>  
+하루에 1번씩 같이 생각해봐요!  
 
 ###### 📚 Simple English Voca Test
 ![Daily Vocab Card](https://notion-serverless-voca.vercel.app/api/words/dailycard?name=HwangRock)
