@@ -18,6 +18,5 @@
 ![Daily CS Card](https://notion-serverless-voca.vercel.app/api/cs/daily?name=HwangRock)
 
 #### 🧩 Problem Solving (Train clean code)
+![LeetCode Stats](https://leetcard.jacoblin.cool/HwangRock?theme=dark&font=Mada&ext=heatmap)  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=peter9244)](https://solved.ac/peter9244/)![스트릭](http://mazandi.herokuapp.com/api?handle=peter9244&theme=dark)<br>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hwangrock)](https://solved.ac/hwangrock/)![스트릭](http://mazandi.herokuapp.com/api?handle=hwangrock&theme=dark)
-
