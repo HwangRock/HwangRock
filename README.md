@@ -5,7 +5,29 @@
 </br></br>
   🔥Development Goals : AI가 서버에서 무료에 가깝게 자동화를 생산하는 세상
 </span>
+</br>
 
+<a href="https://velog.io/@hwangrock1220/posts" target="_blank" style="
+  display:inline-block;
+  padding:8px 15px;
+  margin:5px;
+  background-color:#20c997;
+  color:white;
+  text-decoration:none;
+  border-radius:8px;
+  font-size:14px;">
+  Velog
+</a><a href="https://www.youtube.com/@HwangRock/videos" target="_blank" style="
+  display:inline-block;
+  padding:8px 15px;
+  margin:5px;
+  background-color:#ff4d4f;
+  color:white;
+  text-decoration:none;
+  border-radius:8px;
+  font-size:14px;">
+  YouTube
+</a>
 ---
 
 ## 📆 Daily Dev Habit
