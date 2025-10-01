@@ -7,20 +7,15 @@
 </span>
 
 </br>  
+</br>
 
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@hwangrock1220/posts)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@HwangRock/videos)
 
 ---
 
-## 📆 Daily Dev Habit
-하루에 1번씩 같이 생각해봐요!  
-
-#### 📚 Simple English Voca Test
-![Daily Vocab Card](https://notion-serverless-voca.vercel.app/api/words/dailycard?name=HwangRock)
-
-#### 💻 Daily CS Challenge
-![Daily CS Card](https://notion-serverless-voca.vercel.app/api/cs/daily?name=HwangRock)
+#### 📝Post
+![velog posting](https://notion-serverless-voca.vercel.app/api/velog?id=hwangrock1220)
 
 #### 🧩 Problem Solving (Train clean code)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/HwangRock?theme=dark&font=Mada&ext=heatmap)  
