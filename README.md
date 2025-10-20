@@ -16,7 +16,8 @@
 ---
 
 ## 📝Post
-![velog posting](https://notion-serverless-voca.vercel.app/api/blog?id=hwangrock1220)
+[![velog posting](https://notion-serverless-voca.vercel.app/api/blog?id=hwangrock1220)](https://velog.io/@hwangrock1220)
+
 
 ## 🧩 Problem Solving (Train clean code)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/HwangRock?theme=dark&font=Mada&ext=heatmap)  
