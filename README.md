@@ -16,7 +16,7 @@
 ---
 
 ## 📝Post
-[![velog posting](https://notion-serverless-voca.vercel.app/api/blog?id=hwangrock1220)](https://velog.io/@hwangrock1220)
+[![velog posting](https://notion-serverless-voca.vercel.app/api/velogv2?id=hwangrock1220)](https://velog.io/@hwangrock1220)
 
 
 ## 🧩 Problem Solving (Train clean code)
