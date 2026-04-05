@@ -1,12 +1,12 @@
-🧑‍💻HwangRock who pursue beautiful and readable code✨
+✨ Hwangrock the developer
 ---
 <span style="font-size: 16px;">
 
-#### 🔎 Technical Interests 
+#### ☕ Technical Interests 
 
-![Cipher](https://img.shields.io/badge/Cipher-000000?style=for-the-badge)
-![Design%20Pattern](https://img.shields.io/badge/Design%20Pattern-4B0082?style=for-the-badge)
-![Database%20System](https://img.shields.io/badge/Database%20System-0078D7?style=for-the-badge)
+![FinTech](https://img.shields.io/badge/FinTech-1B2A49?style=for-the-badge)
+![Design%20Pattern](https://img.shields.io/badge/Design%20Pattern-2E8B57?style=for-the-badge)
+![Data%20Pipeline](https://img.shields.io/badge/Data%20Pipeline-722F37?style=for-the-badge)
 </br>
 
 #### 🔗 Contacts
@@ -17,9 +17,5 @@
 
 ---
 
-## 📝Post
+### 🖋️ Writing
 [![velog posting](https://notion-serverless-voca.vercel.app/api/velogv2?id=hwangrock1220)](https://velog.io/@hwangrock1220)
-
-
-## 🧩 Coding Problem Solving
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=peter9244)](https://solved.ac/peter9244/)<br>
