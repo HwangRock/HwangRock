@@ -19,6 +19,7 @@
 #### ⚙️ OSS Contribution
 
 - [Netty](https://github.com/netty/netty) ([#16950](https://github.com/netty/netty/pull/16950)) : Prevented malformed DNS queries from being sent on query-ID exhaustion under high traffic by adding an early-return and regression tests.
+- [Netty](https://github.com/netty/netty) ([#16971](https://github.com/netty/netty/pull/16971)) : Prevented a request-smuggling vulnerability by rejecting control characters in the HTTP-version token
 
 ---
 
