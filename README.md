@@ -16,12 +16,15 @@
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@HwangRock/videos)
 </br>
 
-#### ⚙️ OSS Contribution
+#### ⚙️ OSS Contributions
 
-- [Netty](https://github.com/netty/netty) ([#16950](https://github.com/netty/netty/pull/16950)) : Prevented malformed DNS queries from being sent on query-ID exhaustion under high traffic by adding an early-return and regression tests.
-- [Netty](https://github.com/netty/netty) ([#16971](https://github.com/netty/netty/pull/16971)) : Prevented a request-smuggling vulnerability by rejecting control characters in the HTTP-version token.
-- [Curl](https://github.com/curl/curl) ([#22172](https://github.com/curl/curl/pull/22172)) : Made curl fail with a clear, specific error on multi-member gzip responses instead of a vague write error, with a regression test.
-- [Lettuce](https://github.com/redis/lettuce) ([#3774](https://github.com/redis/lettuce/pull/3774)) : Added Cuckoo Filter command support to the Redis Java client accros its sync, async, reactive, cluster and coroutine APIs.
+**Java**
+- [Netty](https://github.com/netty/netty/pulls?q=is%3Apr+author%3AHwangRock)
+- [Redis Lettuce](https://github.com/redis/lettuce/pulls?q=is%3Apr+author%3AHwangRock)
+- [Apache Zeppelin](https://github.com/apache/zeppelin/pulls?q=is%3Apr+author%3AHwangRock)
+
+**C**
+- [curl](https://github.com/curl/curl/pulls?q=is%3Apr+author%3AHwangRock)
 
 ---
 
