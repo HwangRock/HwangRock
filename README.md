@@ -25,6 +25,7 @@
 
 **C**
 - [curl](https://github.com/curl/curl/pulls?q=is%3Apr+author%3AHwangRock)
+- [Redis](https://github.com/redis/redis/pulls?q=is%3Apr+author%3AHwangRock)
 
 ---
 
