@@ -4,8 +4,9 @@
 
 #### ☕ Technical Interests 
 
-![Design%20Pattern](https://img.shields.io/badge/Design%20Pattern-2E8B57?style=for-the-badge)
-![Data%20Pipeline](https://img.shields.io/badge/Data%20Pipeline-722F37?style=for-the-badge)
+![Log%20Processing](https://img.shields.io/badge/Log%20Processing-2E8B57?style=for-the-badge)
+![Agent](https://img.shields.io/badge/Agent-722F37?style=for-the-badge)
+![Editor](https://img.shields.io/badge/Editor-5B4B8A?style=for-the-badge)
 ![Testing](https://img.shields.io/badge/Testing-1B2A49?style=for-the-badge)
 </br>
 
@@ -19,15 +20,16 @@
 #### ⚙️ OSS Contributions
 
 ###### Network
-- [Netty](https://github.com/netty/netty/pulls?q=is%3Apr+author%3AHwangRock)
-- [Redis Lettuce](https://github.com/redis/lettuce/pulls?q=is%3Apr+author%3AHwangRock)
+- [Netty](https://github.com/netty/netty/pulls?q=is%3Apr+is%3Amerged+author%3AHwangRock)
+- [Redis Lettuce](https://github.com/redis/lettuce/pulls?q=is%3Apr+is%3Amerged+author%3AHwangRock)
 - [curl](https://github.com/curl/curl/pulls?q=is%3Apr+author%3AHwangRock)
 
 ###### Database
-- [Redis](https://github.com/redis/redis/pulls?q=is%3Apr+author%3AHwangRock)
+- [Redis](https://github.com/redis/redis/pulls?q=is%3Apr+is%3Amerged+author%3AHwangRock)
 
 ###### Application
-- [Apache Zeppelin](https://github.com/apache/zeppelin/pulls?q=is%3Apr+author%3AHwangRock)
+- [Apache Zeppelin](https://github.com/apache/zeppelin/pulls?q=is%3Apr+is%3Amerged+author%3AHwangRock)
+- [Grafana k6](https://github.com/grafana/k6/pulls?q=is%3Apr+is%3Amerged+author%3AHwangRock)
 
 ---
 
